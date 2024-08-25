@@ -5,7 +5,9 @@ pageObjects (Package)- PageObjects package contains the locators of the webpage 
 |
 testCases (Package)
 |
-utilities (Package)- The config.ini file is mapped to readProperties.py file under the Utilities folder using the configparser library
+utilities (Package)- 
+    | readProperties.py- The config.ini file is mapped to readProperties.py file under the utilities folder using the configparser library.
+    | customLogger
 |
 TestData (Folder)
 |
