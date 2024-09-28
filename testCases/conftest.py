@@ -31,12 +31,14 @@ def browser_setup(browser):
 
 ########## PyTest HTML Report ############
 def pytest_configure(config):
-    config.metadata['Project Name'] = 'OrangeHrm'
-    config.metadata['Module Name'] = 'Employees'
-    config.metadata['Tester'] = 'Mani'
+    # Check if pytest-html is being used
+    if hasattr(config, 'metadata'):
+        config.metadata['Project Name'] = 'OrangeHrm'
+        config.metadata['Module Name'] = 'Employees'
+        config.metadata['Tester'] = 'Mani'
 
 
-@pytest.mark.optionalhook
+@pytest.hookimpl(optionalhook=True)
 def pytest_metadata(metadata):
-    metadata.pop("JAVA_HOME", None)
-    metadata.pop("Plugins", None)
+
+    pass

@@ -42,3 +42,531 @@
 2024-08-22 19:01:19,528 - root - INFO - *********Username Entered*************
 2024-08-22 19:01:20,176 - root - INFO - *********Password Entered*************
 2024-08-22 19:01:25,334 - root - INFO - *********Submit button clicked*************
+2024-08-26 19:20:28,244 - root - INFO - Test message
+2024-08-26 19:20:38,308 - root - INFO - *********Browser Invoked*************
+2024-08-26 19:20:38,308 - root - INFO - *********Username Entered*************
+2024-08-26 19:20:55,019 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000257988CC6D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3a581ef9885d0c964a337fec1810f382
+2024-08-26 19:20:59,098 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000257988CCF90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3a581ef9885d0c964a337fec1810f382
+2024-08-26 19:21:15,369 - root - INFO - Test message
+2024-08-26 19:21:18,692 - root - INFO - *********Browser Invoked*************
+2024-08-26 19:21:18,693 - root - INFO - *********Username Entered*************
+2024-09-16 16:43:39,180 - root - INFO - Test message
+2024-09-16 16:43:47,715 - root - INFO - *********Browser Invoked*************
+2024-09-16 16:43:47,716 - root - INFO - *********Username Entered*************
+2024-09-16 16:43:48,379 - root - INFO - *********Password Entered*************
+2024-09-16 16:43:53,473 - root - INFO - *********Submit button clicked*************
+2024-09-16 19:22:43,597 - root - INFO - Test message
+2024-09-16 19:22:45,742 - root - INFO - Test message
+2024-09-16 19:22:45,742 - root - INFO - Test message
+2024-09-16 19:22:53,633 - root - INFO - *********Browser Invoked*************
+2024-09-16 19:22:53,633 - root - INFO - *********Browser Invoked*************
+2024-09-16 19:22:53,633 - root - INFO - *********Username Entered*************
+2024-09-16 19:22:53,633 - root - INFO - *********Username Entered*************
+2024-09-16 19:22:54,240 - root - INFO - *********Password Entered*************
+2024-09-16 19:22:54,240 - root - INFO - *********Password Entered*************
+2024-09-16 19:22:59,339 - root - INFO - *********Submit button clicked*************
+2024-09-16 19:22:59,339 - root - INFO - *********Submit button clicked*************
+2024-09-16 19:23:12,345 - root - INFO - *********Test_Data_Driven*************
+2024-09-16 19:23:12,345 - root - INFO - *********Test_Data_Driven*************
+2024-09-16 19:23:12,345 - root - INFO - *********Browser Invoked*************
+2024-09-16 19:23:12,345 - root - INFO - *********Browser Invoked*************
+2024-09-17 13:16:44,020 - root - INFO - Test message
+2024-09-17 13:17:02,832 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 13:17:02,833 - root - INFO - *********Browser Invoked*************
+2024-09-17 13:20:18,590 - root - INFO - Test message
+2024-09-17 13:20:42,505 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 13:20:42,505 - root - INFO - *********Browser Invoked*************
+2024-09-17 13:21:25,110 - root - INFO - Test message
+2024-09-17 13:21:49,009 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 13:21:49,010 - root - INFO - *********Browser Invoked*************
+2024-09-17 13:24:34,107 - root - INFO - Test message
+2024-09-17 13:25:08,274 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 13:25:08,275 - root - INFO - *********Browser Invoked*************
+2024-09-17 14:53:22,931 - root - INFO - Test message
+2024-09-17 14:53:58,152 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 14:53:58,153 - root - INFO - *********Browser Invoked*************
+2024-09-17 15:00:17,910 - root - INFO - Test message
+2024-09-17 15:00:43,952 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 15:00:43,953 - root - INFO - *********Browser Invoked*************
+2024-09-17 15:03:30,865 - root - INFO - Test message
+2024-09-17 15:03:51,076 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 15:03:51,077 - root - INFO - *********Browser Invoked*************
+2024-09-17 15:05:38,466 - root - INFO - Test message
+2024-09-17 15:05:49,975 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 15:05:49,976 - root - INFO - *********Browser Invoked*************
+2024-09-17 15:07:25,531 - root - INFO - Test message
+2024-09-17 15:10:26,880 - root - INFO - Test message
+2024-09-17 15:10:50,307 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 15:10:50,308 - root - INFO - *********Browser Invoked*************
+2024-09-17 15:17:25,464 - root - INFO - Test message
+2024-09-17 15:17:42,295 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 15:17:42,296 - root - INFO - *********Browser Invoked*************
+2024-09-17 15:23:03,250 - root - INFO - Test message
+2024-09-17 15:23:24,348 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 15:23:24,348 - root - INFO - *********Browser Invoked*************
+2024-09-17 15:24:26,744 - root - INFO - Test message
+2024-09-17 15:24:42,504 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 15:24:42,506 - root - INFO - *********Browser Invoked*************
+2024-09-17 15:25:10,754 - root - INFO - Test message
+2024-09-17 15:25:20,828 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 15:25:20,828 - root - INFO - *********Browser Invoked*************
+2024-09-17 15:27:34,050 - root - INFO - Test message
+2024-09-17 15:27:56,867 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 15:27:56,867 - root - INFO - *********Browser Invoked*************
+2024-09-17 15:29:05,873 - root - INFO - Test message
+2024-09-17 15:29:16,114 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 15:29:16,115 - root - INFO - *********Browser Invoked*************
+2024-09-17 15:41:59,164 - root - INFO - Test message
+2024-09-17 15:42:14,977 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 15:42:14,977 - root - INFO - *********Browser Invoked*************
+2024-09-17 15:46:29,544 - root - INFO - Test message
+2024-09-17 15:46:39,849 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 15:46:39,849 - root - INFO - *********Browser Invoked*************
+2024-09-17 15:51:18,574 - root - INFO - Test message
+2024-09-17 15:51:44,310 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 15:51:44,310 - root - INFO - *********Browser Invoked*************
+2024-09-17 16:15:52,853 - root - INFO - Test message
+2024-09-17 16:19:53,273 - root - INFO - Test message
+2024-09-17 16:20:10,435 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 16:20:10,435 - root - INFO - *********Browser Invoked*************
+2024-09-17 16:24:16,920 - root - INFO - Test message
+2024-09-17 16:32:19,639 - root - INFO - Test message
+2024-09-17 16:42:32,898 - root - INFO - *********Test_Data_Driven*************
+2024-09-17 16:42:32,913 - root - INFO - *********Browser Invoked*************
+2024-09-17 16:42:32,954 - root - INFO - Test case: User=Admin, Password=admin123, Expectation=Pass
+2024-09-17 16:42:34,698 - root - INFO - Login successful - expected PASS
+2024-09-17 16:42:56,712 - root - INFO - Test case: User=Admin1, Password=admin123, Expectation=Fail
+2024-09-17 16:42:58,163 - root - INFO - Test case: User=Admin, Password=padmin123, Expectation=Fail
+2024-09-17 16:43:00,429 - root - INFO - Test case: User=Admin1, Password=padmin123, Expectation=Fail
+2024-09-19 11:05:14,502 - root - INFO - *********Test_Data_Driven*************
+2024-09-19 11:05:14,504 - root - INFO - *********Browser Invoked*************
+2024-09-19 11:05:14,543 - root - INFO - Test case: User=Admin, Password=admin123, Expectation=Pass
+2024-09-19 11:05:22,681 - root - INFO - Login successful - expected PASS
+2024-09-19 11:05:46,249 - root - INFO - Test case: User=Admin1, Password=admin123, Expectation=Fail
+2024-09-19 11:05:48,136 - root - INFO - Test case: User=Admin, Password=padmin123, Expectation=Fail
+2024-09-19 11:05:49,666 - root - INFO - Test case: User=Admin1, Password=padmin123, Expectation=Fail
+2024-09-19 11:09:32,321 - root - INFO - *********Test_Data_Driven*************
+2024-09-19 11:09:32,326 - root - INFO - *********Browser Invoked*************
+2024-09-19 11:09:32,394 - root - INFO - Test case: User=Admin, Password=admin123, Expectation=Pass
+2024-09-19 11:09:37,748 - root - INFO - Login successful - expected PASS
+2024-09-19 11:10:01,663 - root - INFO - Test case: User=Admin1, Password=admin123, Expectation=Fail
+2024-09-19 11:10:03,310 - root - INFO - Test case: User=Admin, Password=padmin123, Expectation=Fail
+2024-09-19 11:10:04,919 - root - INFO - Test case: User=Admin1, Password=padmin123, Expectation=Fail
+2024-09-19 15:16:08,162 - root - INFO - *********Test_Data_Driven*************
+2024-09-19 15:16:08,316 - root - INFO - Test case: User=Admin, Password=admin123, Expectation=Pass
+2024-09-19 15:16:11,845 - root - INFO - Login successful - expected PASS
+2024-09-19 15:16:14,067 - root - INFO - Test case: User=Admin1, Password=admin123, Expectation=Fail
+2024-09-19 15:16:15,633 - root - INFO - Login failed - expected FAIL
+2024-09-19 15:16:15,657 - root - INFO - Test case: User=Admin, Password=padmin123, Expectation=Fail
+2024-09-19 15:16:17,273 - root - INFO - Login failed - expected FAIL
+2024-09-19 15:16:17,296 - root - INFO - Test case: User=Admin1, Password=padmin123, Expectation=Fail
+2024-09-19 15:16:18,775 - root - INFO - Login failed - expected FAIL
+2024-09-20 13:13:06,408 - root - INFO - Test message
+2024-09-20 13:13:06,408 - root - INFO - Test message
+2024-09-20 13:13:06,408 - root - INFO - Test message
+2024-09-20 13:13:15,186 - root - INFO - *********Browser Invoked*************
+2024-09-20 13:13:15,186 - root - INFO - *********Browser Invoked*************
+2024-09-20 13:13:15,186 - root - INFO - *********Browser Invoked*************
+2024-09-20 13:13:15,186 - root - INFO - *********Browser Invoked*************
+2024-09-20 13:13:15,191 - root - INFO - *********Username Entered*************
+2024-09-20 13:13:15,191 - root - INFO - *********Username Entered*************
+2024-09-20 13:13:15,191 - root - INFO - *********Username Entered*************
+2024-09-20 13:13:15,191 - root - INFO - *********Username Entered*************
+2024-09-20 13:13:16,332 - root - INFO - *********Password Entered*************
+2024-09-20 13:13:16,332 - root - INFO - *********Password Entered*************
+2024-09-20 13:13:16,332 - root - INFO - *********Password Entered*************
+2024-09-20 13:13:16,332 - root - INFO - *********Password Entered*************
+2024-09-20 13:13:21,456 - root - INFO - *********Submit button clicked*************
+2024-09-20 13:13:21,456 - root - INFO - *********Submit button clicked*************
+2024-09-20 13:13:21,456 - root - INFO - *********Submit button clicked*************
+2024-09-20 13:13:21,456 - root - INFO - *********Submit button clicked*************
+2024-09-20 13:13:48,531 - root - INFO - *********Test_Data_Driven*************
+2024-09-20 13:13:48,531 - root - INFO - *********Test_Data_Driven*************
+2024-09-20 13:13:48,531 - root - INFO - *********Test_Data_Driven*************
+2024-09-20 13:13:48,531 - root - INFO - *********Test_Data_Driven*************
+2024-09-20 13:13:48,612 - root - INFO - Test case: User=Admin, Password=admin123, Expectation=Pass
+2024-09-20 13:13:48,612 - root - INFO - Test case: User=Admin, Password=admin123, Expectation=Pass
+2024-09-20 13:13:48,612 - root - INFO - Test case: User=Admin, Password=admin123, Expectation=Pass
+2024-09-20 13:13:48,612 - root - INFO - Test case: User=Admin, Password=admin123, Expectation=Pass
+2024-09-20 13:13:52,640 - root - INFO - Login successful - expected PASS
+2024-09-20 13:13:52,640 - root - INFO - Login successful - expected PASS
+2024-09-20 13:13:52,640 - root - INFO - Login successful - expected PASS
+2024-09-20 13:13:52,640 - root - INFO - Login successful - expected PASS
+2024-09-20 13:13:54,549 - root - INFO - Test case: User=Admin1, Password=admin123, Expectation=Fail
+2024-09-20 13:13:54,549 - root - INFO - Test case: User=Admin1, Password=admin123, Expectation=Fail
+2024-09-20 13:13:54,549 - root - INFO - Test case: User=Admin1, Password=admin123, Expectation=Fail
+2024-09-20 13:13:54,549 - root - INFO - Test case: User=Admin1, Password=admin123, Expectation=Fail
+2024-09-20 13:13:56,615 - root - INFO - Login failed - expected FAIL
+2024-09-20 13:13:56,615 - root - INFO - Login failed - expected FAIL
+2024-09-20 13:13:56,615 - root - INFO - Login failed - expected FAIL
+2024-09-20 13:13:56,615 - root - INFO - Login failed - expected FAIL
+2024-09-20 13:13:56,637 - root - INFO - Test case: User=Admin, Password=padmin123, Expectation=Fail
+2024-09-20 13:13:56,637 - root - INFO - Test case: User=Admin, Password=padmin123, Expectation=Fail
+2024-09-20 13:13:56,637 - root - INFO - Test case: User=Admin, Password=padmin123, Expectation=Fail
+2024-09-20 13:13:56,637 - root - INFO - Test case: User=Admin, Password=padmin123, Expectation=Fail
+2024-09-20 13:13:58,419 - root - INFO - Login failed - expected FAIL
+2024-09-20 13:13:58,419 - root - INFO - Login failed - expected FAIL
+2024-09-20 13:13:58,419 - root - INFO - Login failed - expected FAIL
+2024-09-20 13:13:58,419 - root - INFO - Login failed - expected FAIL
+2024-09-20 13:13:58,451 - root - INFO - Test case: User=Admin1, Password=padmin123, Expectation=Fail
+2024-09-20 13:13:58,451 - root - INFO - Test case: User=Admin1, Password=padmin123, Expectation=Fail
+2024-09-20 13:13:58,451 - root - INFO - Test case: User=Admin1, Password=padmin123, Expectation=Fail
+2024-09-20 13:13:58,451 - root - INFO - Test case: User=Admin1, Password=padmin123, Expectation=Fail
+2024-09-20 13:13:59,845 - root - INFO - Login failed - expected FAIL
+2024-09-20 13:13:59,845 - root - INFO - Login failed - expected FAIL
+2024-09-20 13:13:59,845 - root - INFO - Login failed - expected FAIL
+2024-09-20 13:13:59,845 - root - INFO - Login failed - expected FAIL
+2024-09-20 13:14:28,121 - root - INFO - *********Browser Invoked*************
+2024-09-20 13:14:28,121 - root - INFO - *********Browser Invoked*************
+2024-09-20 13:14:28,121 - root - INFO - *********Browser Invoked*************
+2024-09-20 13:14:28,121 - root - INFO - *********Browser Invoked*************
+2024-09-20 13:14:28,121 - root - INFO - *********Username Entered*************
+2024-09-20 13:14:28,121 - root - INFO - *********Username Entered*************
+2024-09-20 13:14:28,121 - root - INFO - *********Username Entered*************
+2024-09-20 13:14:28,121 - root - INFO - *********Username Entered*************
+2024-09-20 13:14:29,132 - root - INFO - *********Password Entered*************
+2024-09-20 13:14:29,132 - root - INFO - *********Password Entered*************
+2024-09-20 13:14:29,132 - root - INFO - *********Password Entered*************
+2024-09-20 13:14:29,132 - root - INFO - *********Password Entered*************
+2024-09-20 13:14:34,272 - root - INFO - *********Submit button clicked*************
+2024-09-20 13:14:34,272 - root - INFO - *********Submit button clicked*************
+2024-09-20 13:14:34,272 - root - INFO - *********Submit button clicked*************
+2024-09-20 13:14:34,272 - root - INFO - *********Submit button clicked*************
+2024-09-20 13:15:07,295 - root - INFO - *********Test_Data_Driven*************
+2024-09-20 13:15:07,295 - root - INFO - *********Test_Data_Driven*************
+2024-09-20 13:15:07,295 - root - INFO - *********Test_Data_Driven*************
+2024-09-20 13:15:07,295 - root - INFO - *********Test_Data_Driven*************
+2024-09-20 13:15:07,295 - root - INFO - *********Browser Invoked*************
+2024-09-20 13:15:07,295 - root - INFO - *********Browser Invoked*************
+2024-09-20 13:15:07,295 - root - INFO - *********Browser Invoked*************
+2024-09-20 13:15:07,295 - root - INFO - *********Browser Invoked*************
+2024-09-20 13:15:07,351 - root - INFO - Test case: User=Admin, Password=admin123, Expectation=Pass
+2024-09-20 13:15:07,351 - root - INFO - Test case: User=Admin, Password=admin123, Expectation=Pass
+2024-09-20 13:15:07,351 - root - INFO - Test case: User=Admin, Password=admin123, Expectation=Pass
+2024-09-20 13:15:07,351 - root - INFO - Test case: User=Admin, Password=admin123, Expectation=Pass
+2024-09-20 13:15:11,370 - root - INFO - Login successful - expected PASS
+2024-09-20 13:15:11,370 - root - INFO - Login successful - expected PASS
+2024-09-20 13:15:11,370 - root - INFO - Login successful - expected PASS
+2024-09-20 13:15:11,370 - root - INFO - Login successful - expected PASS
+2024-09-20 13:15:36,662 - root - INFO - Test case: User=Admin1, Password=admin123, Expectation=Fail
+2024-09-20 13:15:36,662 - root - INFO - Test case: User=Admin1, Password=admin123, Expectation=Fail
+2024-09-20 13:15:36,662 - root - INFO - Test case: User=Admin1, Password=admin123, Expectation=Fail
+2024-09-20 13:15:36,662 - root - INFO - Test case: User=Admin1, Password=admin123, Expectation=Fail
+2024-09-20 13:15:38,647 - root - INFO - Test case: User=Admin, Password=padmin123, Expectation=Fail
+2024-09-20 13:15:38,647 - root - INFO - Test case: User=Admin, Password=padmin123, Expectation=Fail
+2024-09-20 13:15:38,647 - root - INFO - Test case: User=Admin, Password=padmin123, Expectation=Fail
+2024-09-20 13:15:38,647 - root - INFO - Test case: User=Admin, Password=padmin123, Expectation=Fail
+2024-09-20 13:15:40,893 - root - INFO - Test case: User=Admin1, Password=padmin123, Expectation=Fail
+2024-09-20 13:15:40,893 - root - INFO - Test case: User=Admin1, Password=padmin123, Expectation=Fail
+2024-09-20 13:15:40,893 - root - INFO - Test case: User=Admin1, Password=padmin123, Expectation=Fail
+2024-09-20 13:15:40,893 - root - INFO - Test case: User=Admin1, Password=padmin123, Expectation=Fail
+2024-09-20 19:05:34,750 - root - INFO - Test message
+2024-09-20 19:05:49,026 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:05:49,026 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:05:49,027 - root - INFO - *********Username Entered*************
+2024-09-20 19:05:49,027 - root - INFO - *********Username Entered*************
+2024-09-20 19:05:49,822 - root - INFO - *********Password Entered*************
+2024-09-20 19:05:49,822 - root - INFO - *********Password Entered*************
+2024-09-20 19:05:54,913 - root - INFO - *********Submit button clicked*************
+2024-09-20 19:05:54,913 - root - INFO - *********Submit button clicked*************
+2024-09-20 19:06:02,018 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:06:02,018 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:06:02,018 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:06:02,018 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:16:16,778 - root - INFO - Test message
+2024-09-20 19:16:27,548 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:16:27,548 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:16:27,548 - root - INFO - *********Username Entered*************
+2024-09-20 19:16:27,548 - root - INFO - *********Username Entered*************
+2024-09-20 19:16:28,197 - root - INFO - *********Password Entered*************
+2024-09-20 19:16:28,197 - root - INFO - *********Password Entered*************
+2024-09-20 19:16:33,281 - root - INFO - *********Submit button clicked*************
+2024-09-20 19:16:33,281 - root - INFO - *********Submit button clicked*************
+2024-09-20 19:16:39,532 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:16:39,532 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:16:39,532 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:16:39,532 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:26:06,127 - root - INFO - Test message
+2024-09-20 19:26:15,089 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:26:15,089 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:26:15,090 - root - INFO - *********Username Entered*************
+2024-09-20 19:26:15,090 - root - INFO - *********Username Entered*************
+2024-09-20 19:26:15,630 - root - INFO - *********Password Entered*************
+2024-09-20 19:26:15,630 - root - INFO - *********Password Entered*************
+2024-09-20 19:26:20,719 - root - INFO - *********Submit button clicked*************
+2024-09-20 19:26:20,719 - root - INFO - *********Submit button clicked*************
+2024-09-20 19:26:25,773 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:26:25,773 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:26:25,773 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-20 19:26:25,773 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-20 19:26:25,797 - root - INFO - **********Clicking the recruitment option************
+2024-09-20 19:26:25,797 - root - INFO - **********Clicking the recruitment option************
+2024-09-20 19:26:26,266 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-20 19:26:26,266 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-20 19:30:04,388 - root - INFO - Test message
+2024-09-20 19:30:11,927 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:30:11,927 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:30:11,929 - root - INFO - *********Username Entered*************
+2024-09-20 19:30:11,929 - root - INFO - *********Username Entered*************
+2024-09-20 19:30:12,523 - root - INFO - *********Password Entered*************
+2024-09-20 19:30:12,523 - root - INFO - *********Password Entered*************
+2024-09-20 19:30:17,601 - root - INFO - *********Submit button clicked*************
+2024-09-20 19:30:17,601 - root - INFO - *********Submit button clicked*************
+2024-09-20 19:30:22,658 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:30:22,658 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:30:22,658 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-20 19:30:22,658 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-20 19:30:22,685 - root - INFO - **********Clicking the recruitment option************
+2024-09-20 19:30:22,685 - root - INFO - **********Clicking the recruitment option************
+2024-09-20 19:30:23,940 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-20 19:30:23,940 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-20 19:30:24,306 - root - INFO - **********Clicking the add button************
+2024-09-20 19:30:24,306 - root - INFO - **********Clicking the add button************
+2024-09-20 19:30:25,267 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-20 19:30:25,267 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-20 19:30:25,651 - root - INFO - *********Sending the name into First Name field*************
+2024-09-20 19:30:25,651 - root - INFO - *********Sending the name into First Name field*************
+2024-09-20 19:32:06,349 - root - INFO - Test message
+2024-09-20 19:32:13,911 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:32:13,911 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:32:13,912 - root - INFO - *********Username Entered*************
+2024-09-20 19:32:13,912 - root - INFO - *********Username Entered*************
+2024-09-20 19:32:15,026 - root - INFO - *********Password Entered*************
+2024-09-20 19:32:15,026 - root - INFO - *********Password Entered*************
+2024-09-20 19:32:20,121 - root - INFO - *********Submit button clicked*************
+2024-09-20 19:32:20,121 - root - INFO - *********Submit button clicked*************
+2024-09-20 19:32:25,175 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:32:25,175 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:32:25,175 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-20 19:32:25,175 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-20 19:32:25,191 - root - INFO - **********Clicking the recruitment option************
+2024-09-20 19:32:25,191 - root - INFO - **********Clicking the recruitment option************
+2024-09-20 19:32:26,422 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-20 19:32:26,422 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-20 19:32:26,896 - root - INFO - **********Clicking the add button************
+2024-09-20 19:32:26,896 - root - INFO - **********Clicking the add button************
+2024-09-20 19:32:27,759 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-20 19:32:27,759 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-20 19:32:28,395 - root - INFO - *********Sending the name into First Name field*************
+2024-09-20 19:32:28,395 - root - INFO - *********Sending the name into First Name field*************
+2024-09-20 19:32:28,528 - root - INFO - *********waiting to identify the xpath of email field*************
+2024-09-20 19:32:28,528 - root - INFO - *********waiting to identify the xpath of email field*************
+2024-09-20 19:32:28,557 - root - INFO - *********Sending the name into Email field*************
+2024-09-20 19:32:28,557 - root - INFO - *********Sending the name into Email field*************
+2024-09-20 19:32:28,656 - root - INFO - *********waiting to identify the xpath of save button************
+2024-09-20 19:32:28,656 - root - INFO - *********waiting to identify the xpath of save button************
+2024-09-20 19:32:28,669 - root - INFO - *********Click the save button*************
+2024-09-20 19:32:28,669 - root - INFO - *********Click the save button*************
+2024-09-20 19:53:48,811 - root - INFO - Test message
+2024-09-20 19:55:29,741 - root - INFO - Test message
+2024-09-20 19:55:36,669 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:55:36,669 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:55:36,669 - root - INFO - *********Username Entered*************
+2024-09-20 19:55:36,669 - root - INFO - *********Username Entered*************
+2024-09-20 19:55:37,337 - root - INFO - *********Password Entered*************
+2024-09-20 19:55:37,337 - root - INFO - *********Password Entered*************
+2024-09-20 19:55:42,434 - root - INFO - *********Submit button clicked*************
+2024-09-20 19:55:42,434 - root - INFO - *********Submit button clicked*************
+2024-09-20 19:55:48,943 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:55:48,943 - root - INFO - *********Browser Invoked*************
+2024-09-20 19:55:48,943 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-20 19:55:48,943 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-20 19:55:48,956 - root - INFO - **********Clicking the recruitment option************
+2024-09-20 19:55:48,956 - root - INFO - **********Clicking the recruitment option************
+2024-09-20 19:55:50,066 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-20 19:55:50,066 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-20 19:55:50,447 - root - INFO - **********Clicking the add button************
+2024-09-20 19:55:50,447 - root - INFO - **********Clicking the add button************
+2024-09-20 19:55:51,520 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-20 19:55:51,520 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-20 19:55:51,971 - root - INFO - *********Sending the name into First Name field*************
+2024-09-20 19:55:51,971 - root - INFO - *********Sending the name into First Name field*************
+2024-09-20 19:55:52,050 - root - INFO - *********waiting to identify the xpath of email field*************
+2024-09-20 19:55:52,050 - root - INFO - *********waiting to identify the xpath of email field*************
+2024-09-20 19:55:52,065 - root - INFO - *********Sending the name into Email field*************
+2024-09-20 19:55:52,065 - root - INFO - *********Sending the name into Email field*************
+2024-09-20 19:55:52,220 - root - INFO - *********waiting to identify the xpath of save button************
+2024-09-20 19:55:52,220 - root - INFO - *********waiting to identify the xpath of save button************
+2024-09-20 19:55:52,232 - root - INFO - *********Click the save button*************
+2024-09-20 19:55:52,232 - root - INFO - *********Click the save button*************
+2024-09-21 12:37:01,955 - root - INFO - Test message
+2024-09-21 12:37:40,867 - root - INFO - *********Browser Invoked*************
+2024-09-21 12:37:40,867 - root - INFO - *********Browser Invoked*************
+2024-09-21 12:37:40,868 - root - INFO - *********Username Entered*************
+2024-09-21 12:37:40,868 - root - INFO - *********Username Entered*************
+2024-09-21 12:37:41,491 - root - INFO - *********Password Entered*************
+2024-09-21 12:37:41,491 - root - INFO - *********Password Entered*************
+2024-09-21 12:37:46,585 - root - INFO - *********Submit button clicked*************
+2024-09-21 12:37:46,585 - root - INFO - *********Submit button clicked*************
+2024-09-21 12:37:52,781 - root - INFO - *********Browser Invoked*************
+2024-09-21 12:37:52,781 - root - INFO - *********Browser Invoked*************
+2024-09-21 12:37:52,781 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-21 12:37:52,781 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-21 12:37:52,863 - root - INFO - **********Clicking the recruitment option************
+2024-09-21 12:37:52,863 - root - INFO - **********Clicking the recruitment option************
+2024-09-21 12:37:56,999 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-21 12:37:56,999 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-21 12:37:57,712 - root - INFO - **********Clicking the add button************
+2024-09-21 12:37:57,712 - root - INFO - **********Clicking the add button************
+2024-09-21 12:37:58,987 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-21 12:37:58,987 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-21 12:37:59,400 - root - INFO - *********Sending the name into First Name field*************
+2024-09-21 12:37:59,400 - root - INFO - *********Sending the name into First Name field*************
+2024-09-21 12:37:59,525 - root - INFO - *********waiting to identify the xpath of email field*************
+2024-09-21 12:37:59,525 - root - INFO - *********waiting to identify the xpath of email field*************
+2024-09-21 12:37:59,554 - root - INFO - *********Sending the name into Email field*************
+2024-09-21 12:37:59,554 - root - INFO - *********Sending the name into Email field*************
+2024-09-21 12:37:59,763 - root - INFO - *********waiting to identify the xpath of save button************
+2024-09-21 12:37:59,763 - root - INFO - *********waiting to identify the xpath of save button************
+2024-09-21 12:37:59,780 - root - INFO - *********Click the save button*************
+2024-09-21 12:37:59,780 - root - INFO - *********Click the save button*************
+2024-09-21 13:38:14,246 - root - INFO - Test message
+2024-09-21 13:38:40,023 - root - INFO - *********Browser Invoked*************
+2024-09-21 13:38:40,023 - root - INFO - *********Browser Invoked*************
+2024-09-21 13:38:40,024 - root - INFO - *********Username Entered*************
+2024-09-21 13:38:40,024 - root - INFO - *********Username Entered*************
+2024-09-21 13:39:33,460 - root - INFO - Test message
+2024-09-21 13:40:05,592 - root - INFO - *********Browser Invoked*************
+2024-09-21 13:40:05,592 - root - INFO - *********Browser Invoked*************
+2024-09-21 13:40:05,592 - root - INFO - *********Username Entered*************
+2024-09-21 13:40:05,592 - root - INFO - *********Username Entered*************
+2024-09-21 16:44:24,960 - root - INFO - Test message
+2024-09-21 16:44:37,140 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-09-21 16:44:37,140 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-09-21 16:52:29,696 - root - INFO - Test message
+2024-09-21 16:52:34,731 - root - INFO - *********Browser Invoked*************
+2024-09-21 16:52:34,731 - root - INFO - *********Browser Invoked*************
+2024-09-21 16:52:34,732 - root - INFO - *********Username Entered*************
+2024-09-21 16:52:34,732 - root - INFO - *********Username Entered*************
+2024-09-21 16:52:35,224 - root - INFO - *********Password Entered*************
+2024-09-21 16:52:35,224 - root - INFO - *********Password Entered*************
+2024-09-21 16:52:40,307 - root - INFO - *********Submit button clicked*************
+2024-09-21 16:52:40,307 - root - INFO - *********Submit button clicked*************
+2024-09-21 16:52:46,710 - root - INFO - *********Browser Invoked*************
+2024-09-21 16:52:46,710 - root - INFO - *********Browser Invoked*************
+2024-09-21 16:52:46,711 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-21 16:52:46,711 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-21 16:52:46,842 - root - INFO - **********Clicking the recruitment option************
+2024-09-21 16:52:46,842 - root - INFO - **********Clicking the recruitment option************
+2024-09-21 16:52:47,974 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-21 16:52:47,974 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-21 16:52:48,350 - root - INFO - **********Clicking the add button************
+2024-09-21 16:52:48,350 - root - INFO - **********Clicking the add button************
+2024-09-21 16:52:49,568 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-21 16:52:49,568 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-21 16:52:50,038 - root - INFO - *********Sending the name into First Name field*************
+2024-09-21 16:52:50,038 - root - INFO - *********Sending the name into First Name field*************
+2024-09-21 16:52:50,124 - root - INFO - *********Click the vacancy dropdown option*************
+2024-09-21 16:52:50,124 - root - INFO - *********Click the vacancy dropdown option*************
+2024-09-21 16:52:50,192 - root - INFO - *********Click the vacancy dropdown option*************
+2024-09-21 16:52:50,192 - root - INFO - *********Click the vacancy dropdown option*************
+2024-09-21 18:17:12,598 - root - INFO - Test message
+2024-09-21 18:17:17,705 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:17:17,705 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:17:17,705 - root - INFO - *********Username Entered*************
+2024-09-21 18:17:17,705 - root - INFO - *********Username Entered*************
+2024-09-21 18:17:18,216 - root - INFO - *********Password Entered*************
+2024-09-21 18:17:18,216 - root - INFO - *********Password Entered*************
+2024-09-21 18:17:23,323 - root - INFO - *********Submit button clicked*************
+2024-09-21 18:17:23,323 - root - INFO - *********Submit button clicked*************
+2024-09-21 18:17:29,662 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:17:29,662 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:17:29,663 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-21 18:17:29,663 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-21 18:17:29,684 - root - INFO - **********Clicking the recruitment option************
+2024-09-21 18:17:29,684 - root - INFO - **********Clicking the recruitment option************
+2024-09-21 18:17:30,816 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-21 18:17:30,816 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-21 18:17:31,220 - root - INFO - **********Clicking the add button************
+2024-09-21 18:17:31,220 - root - INFO - **********Clicking the add button************
+2024-09-21 18:17:32,340 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-21 18:17:32,340 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-21 18:17:32,706 - root - INFO - *********Sending the name into First Name field*************
+2024-09-21 18:17:32,706 - root - INFO - *********Sending the name into First Name field*************
+2024-09-21 18:17:32,784 - root - INFO - *********Click the vacancy dropdown option*************
+2024-09-21 18:17:32,784 - root - INFO - *********Click the vacancy dropdown option*************
+2024-09-21 18:17:32,851 - root - INFO - *********Waiting for the vacancy option 'test' to be visible*************
+2024-09-21 18:17:32,851 - root - INFO - *********Waiting for the vacancy option 'test' to be visible*************
+2024-09-21 18:20:17,197 - root - INFO - Test message
+2024-09-21 18:20:22,707 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:20:22,707 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:20:22,707 - root - INFO - *********Username Entered*************
+2024-09-21 18:20:22,707 - root - INFO - *********Username Entered*************
+2024-09-21 18:20:23,182 - root - INFO - *********Password Entered*************
+2024-09-21 18:20:23,182 - root - INFO - *********Password Entered*************
+2024-09-21 18:20:28,268 - root - INFO - *********Submit button clicked*************
+2024-09-21 18:20:28,268 - root - INFO - *********Submit button clicked*************
+2024-09-21 18:20:34,617 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:20:34,617 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:20:34,617 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-21 18:20:34,617 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-21 18:20:34,638 - root - INFO - **********Clicking the recruitment option************
+2024-09-21 18:20:34,638 - root - INFO - **********Clicking the recruitment option************
+2024-09-21 18:20:35,749 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-21 18:20:35,749 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-21 18:20:36,141 - root - INFO - **********Clicking the add button************
+2024-09-21 18:20:36,141 - root - INFO - **********Clicking the add button************
+2024-09-21 18:20:37,001 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-21 18:20:37,001 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-21 18:20:37,413 - root - INFO - *********Sending the name into First Name field*************
+2024-09-21 18:20:37,413 - root - INFO - *********Sending the name into First Name field*************
+2024-09-21 18:20:37,484 - root - INFO - *********Click the vacancy dropdown option*************
+2024-09-21 18:20:37,484 - root - INFO - *********Click the vacancy dropdown option*************
+2024-09-21 18:20:37,533 - root - INFO - *********Waiting for the vacancy option 'test' to be visible*************
+2024-09-21 18:20:37,533 - root - INFO - *********Waiting for the vacancy option 'test' to be visible*************
+2024-09-21 18:27:51,954 - root - INFO - Test message
+2024-09-21 18:27:58,789 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:27:58,789 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:27:58,790 - root - INFO - *********Username Entered*************
+2024-09-21 18:27:58,790 - root - INFO - *********Username Entered*************
+2024-09-21 18:27:59,247 - root - INFO - *********Password Entered*************
+2024-09-21 18:27:59,247 - root - INFO - *********Password Entered*************
+2024-09-21 18:28:04,332 - root - INFO - *********Submit button clicked*************
+2024-09-21 18:28:04,332 - root - INFO - *********Submit button clicked*************
+2024-09-21 18:28:10,471 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:28:10,471 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:28:10,471 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-21 18:28:10,471 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-21 18:28:10,493 - root - INFO - **********Clicking the recruitment option************
+2024-09-21 18:28:10,493 - root - INFO - **********Clicking the recruitment option************
+2024-09-21 18:28:11,751 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-21 18:28:11,751 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-21 18:28:12,104 - root - INFO - **********Clicking the add button************
+2024-09-21 18:28:12,104 - root - INFO - **********Clicking the add button************
+2024-09-21 18:28:13,360 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-21 18:28:13,360 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-21 18:28:13,724 - root - INFO - *********Sending the name into First Name field*************
+2024-09-21 18:28:13,724 - root - INFO - *********Sending the name into First Name field*************
+2024-09-21 18:28:13,782 - root - INFO - *********Click the vacancy dropdown option*************
+2024-09-21 18:28:13,782 - root - INFO - *********Click the vacancy dropdown option*************
+2024-09-21 18:37:32,549 - root - INFO - Test message
+2024-09-21 18:37:39,636 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:37:39,636 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:37:39,638 - root - INFO - *********Username Entered*************
+2024-09-21 18:37:39,638 - root - INFO - *********Username Entered*************
+2024-09-21 18:37:40,085 - root - INFO - *********Password Entered*************
+2024-09-21 18:37:40,085 - root - INFO - *********Password Entered*************
+2024-09-21 18:37:45,168 - root - INFO - *********Submit button clicked*************
+2024-09-21 18:37:45,168 - root - INFO - *********Submit button clicked*************
+2024-09-21 18:37:51,453 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:37:51,453 - root - INFO - *********Browser Invoked*************
+2024-09-21 18:37:51,453 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-21 18:37:51,453 - root - INFO - *********waiting to identify the xpath of recruitment button*************
+2024-09-21 18:37:51,470 - root - INFO - **********Clicking the recruitment option************
+2024-09-21 18:37:51,470 - root - INFO - **********Clicking the recruitment option************
+2024-09-21 18:37:52,491 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-21 18:37:52,491 - root - INFO - *********waiting to identify the xpath of add button*************
+2024-09-21 18:37:52,853 - root - INFO - **********Clicking the add button************
+2024-09-21 18:37:52,853 - root - INFO - **********Clicking the add button************
+2024-09-21 18:37:53,932 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-21 18:37:53,932 - root - INFO - *********waiting to identify the xpath of firstname field*************
+2024-09-21 18:37:54,286 - root - INFO - *********Sending the name into First Name field*************
+2024-09-21 18:37:54,286 - root - INFO - *********Sending the name into First Name field*************
+2024-09-21 18:37:54,347 - root - INFO - *********waiting to identify the xpath of email field*************
+2024-09-21 18:37:54,347 - root - INFO - *********waiting to identify the xpath of email field*************
+2024-09-21 18:37:54,376 - root - INFO - *********Sending the name into Email field*************
+2024-09-21 18:37:54,376 - root - INFO - *********Sending the name into Email field*************
+2024-09-21 18:37:54,494 - root - INFO - *********waiting to identify the xpath of save button************
+2024-09-21 18:37:54,494 - root - INFO - *********waiting to identify the xpath of save button************
+2024-09-21 18:37:54,497 - root - INFO - *********Click the save button*************
+2024-09-21 18:37:54,497 - root - INFO - *********Click the save button*************

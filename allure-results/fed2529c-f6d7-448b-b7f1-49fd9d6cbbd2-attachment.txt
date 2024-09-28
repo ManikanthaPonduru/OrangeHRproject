@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_login.py:17 *********Browser Invoked*************
+[32mINFO    [0m root:test_login.py:20 *********Username Entered*************
+[32mINFO    [0m root:test_login.py:22 *********Password Entered*************
+[32mINFO    [0m root:test_login.py:25 *********Submit button clicked*************

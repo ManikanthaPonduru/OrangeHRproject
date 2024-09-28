@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_login_data_driven_test.py:21 *********Test_Data_Driven*************
+[32mINFO    [0m root:test_login_data_driven_test.py:22 *********Browser Invoked*************
+[32mINFO    [0m root:test_login_data_driven_test.py:34 Test case: User=Admin, Password=admin123, Expectation=Pass
+[32mINFO    [0m root:test_login_data_driven_test.py:50 Login successful - expected PASS
+[32mINFO    [0m root:test_login_data_driven_test.py:34 Test case: User=Admin1, Password=admin123, Expectation=Fail
+[32mINFO    [0m root:test_login_data_driven_test.py:34 Test case: User=Admin, Password=padmin123, Expectation=Fail
+[32mINFO    [0m root:test_login_data_driven_test.py:34 Test case: User=Admin1, Password=padmin123, Expectation=Fail

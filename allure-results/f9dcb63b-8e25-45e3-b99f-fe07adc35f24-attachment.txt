@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_allure_report.py:19 *********Browser Invoked*************
+[32mINFO    [0m root:test_allure_report.py:24 *********Username Entered*************
+[32mINFO    [0m root:test_allure_report.py:28 *********Password Entered*************
+[32mINFO    [0m root:test_allure_report.py:33 *********Submit button clicked*************

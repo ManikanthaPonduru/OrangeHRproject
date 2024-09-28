@@ -1,0 +1,9 @@
+[32mINFO    [0m root:test_data_visual.py:21 *********Test_Data_Driven*************
+[32mINFO    [0m root:test_data_visual.py:35 Test case: User=Admin, Password=admin123, Expectation=Pass
+[32mINFO    [0m root:test_data_visual.py:50 Login successful - expected PASS
+[32mINFO    [0m root:test_data_visual.py:35 Test case: User=Admin1, Password=admin123, Expectation=Fail
+[32mINFO    [0m root:test_data_visual.py:72 Login failed - expected FAIL
+[32mINFO    [0m root:test_data_visual.py:35 Test case: User=Admin, Password=padmin123, Expectation=Fail
+[32mINFO    [0m root:test_data_visual.py:72 Login failed - expected FAIL
+[32mINFO    [0m root:test_data_visual.py:35 Test case: User=Admin1, Password=padmin123, Expectation=Fail
+[32mINFO    [0m root:test_data_visual.py:72 Login failed - expected FAIL

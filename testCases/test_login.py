@@ -1,7 +1,7 @@
 import pytest
 import time
 from Utilities.readProperties import ReadConfig
-from PageObjects import OrangeHrm
+from pageObjects.LoginPage_PageObjects import OrangeHrm
 from Utilities.customLogger import LogGen
 
 
@@ -13,6 +13,8 @@ class TestSeleniumBasics:
     print("Logger initialized")  # Debugging step
     logger.info("Test message")
 
+    @pytest.fixture(autouse=True)
+    # The login method is marked as a fixture with autouse=True, meaning it will run automatically before every test that inherits from BaseTest.
     def test_One(self, browser_setup):
         self.logger.info("*********Browser Invoked*************")
         self.driver = browser_setup
@@ -25,4 +27,6 @@ class TestSeleniumBasics:
         self.logger.info("*********Submit button clicked*************")
         self.orange_hrm.click_login()
         self.orange_hrm.wait_for_few_seconds()
+
+
 
